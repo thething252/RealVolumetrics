@@ -8,3 +8,5 @@ Numerous updates are intended to be added soon, to enhance the graphics AND perf
 
 
 You need RSSVE and Blackrack's Volumetric Clouds mod (from his Patreon) to use this.
+
+Find the install guide on BananaMan's release, wiki is a WIP.
