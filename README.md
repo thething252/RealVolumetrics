@@ -21,4 +21,4 @@ Find the install guide on BananaMan's release, wiki is a WIP.
 - Improved looks from orbit
 - Improved performance
 - Sunflare
-- And more,
+- And more!
