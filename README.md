@@ -13,7 +13,7 @@ Version 0.1.1
 
 You need RSSVE and Blackrack's Volumetric Clouds mod (from his Patreon) to use this.
 
-Find the install guide on BananaMan's release, wiki is a WIP.
+Find the install guide in the Wiki at: 
 
 # Planned features:
 
