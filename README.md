@@ -13,7 +13,7 @@ Version 0.1.1
 
 You need RSSVE and Blackrack's Volumetric Clouds mod (from his Patreon) to use this.
 
-Find the install guide in the Wiki at: https://github.com/thething252/RealVolumetrics/wiki/Installation
+Find the install guide in the wiki at: https://github.com/thething252/RealVolumetrics/wiki/Installation
 
 # Planned features:
 
