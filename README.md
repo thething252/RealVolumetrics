@@ -1,12 +1,9 @@
-# RealVolumetrics
+# RealVolumetrics v0.1.1
 This is an updated version of BananaMan's RealSolarSystem configs for the volumetric clouds mod, to be used as an aletrnative high performance option for users of RSSVE.
 
 Numerous updates are intended to be added soon, to enhance the graphics AND performance of the mod.
 
 Version 0.1.2 will rework file structure, ans 0.1.3 will be the first proper update
-
-
-Version 0.1.1
 
 
 # Changelog: v0.1.1
