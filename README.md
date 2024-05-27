@@ -17,7 +17,7 @@ Find the install guide in the wiki at: https://github.com/thething252/RealVolume
 
 # Credits
 
-- Blackrack for the volunetric clouds mod
+- Blackrack for the volumetric clouds mod
 - BananaMan for the initial configs
 - Creators of RSSVE for textures and more 
   
