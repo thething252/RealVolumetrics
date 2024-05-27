@@ -15,6 +15,15 @@ You need RSSVE and Blackrack's Volumetric Clouds mod (from his Patreon) to use t
 
 Find the install guide in the wiki at: https://github.com/thething252/RealVolumetrics/wiki/Installation
 
+# Credits
+
+- Blackrack for the volunetric clouds mod
+- BananaMan for the initial configs
+- Creators of RSSVE for textures
+  
+
+
+
 # Planned features:
 
 - Titan clouds
