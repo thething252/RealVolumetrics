@@ -3,6 +3,9 @@ This is an updated version of BananaMan's RealSolarSystem configs for the volume
 
 Numerous updates are intended to be added soon, to enhance the graphics AND performance of the mod.
 
+Version 0.1.2 will rework file structure, ans 0.1.3 will be the first proper update
+
+
 Version 0.1.1
 
 
