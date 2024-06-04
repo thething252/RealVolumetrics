@@ -30,9 +30,9 @@ Find the install guide in the wiki at: https://github.com/thething252/RealVolume
 # Planned features:
 
 - Titan clouds (WIP)
-- Improved looks from orbit (WIP)
+- Improved looks from orbit (Mostly completed)
 - Improved performance
-- Sunflare (WIP)
-- Reworked file structure (WIP)
+- Sunflare (maybe)
+- Reworked file structure (Completed)
 - And more!
   
