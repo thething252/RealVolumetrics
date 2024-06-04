@@ -3,11 +3,14 @@ This is an updated version of BananaMan's RealSolarSystem configs for the volume
 
 Numerous updates are intended to be added soon, to enhance the graphics AND performance of the mod.
 
-Version 0.2 coming soon!
 
 
-# Changelog: v0.1.1
-- Created initial fork, that's about it!
+
+# Changelog: v0.2
+- Lowered memory usage
+- Revamped install process
+- Improved clouds appearance from orbit
+- Added new dust effect to Mars
 
 # Install guide and dependencies:
 
