@@ -1,3 +1,10 @@
+IMPORTANT: This mod uses textures and scatterer configs from RSSVE. Therefore, I am obligated to use the same license as RSSVE, and provide a link:
+
+https://github.com/KSP-RO/RSSVE
+
+I would like to thank the creators of RSSVE for the textures I used as this mod would be impossible without them.
+
+
 Attribution-NonCommercial-ShareAlike 4.0 International
 
 =======================================================================
