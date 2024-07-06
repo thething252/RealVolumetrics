@@ -16,7 +16,7 @@ I don't maintain it anymore, I have made a final version 0.3
 
 You need RSSVE and Blackrack's Volumetric Clouds mod (from his Patreon) to use this.
 
-Find the install guide in the wiki at: https://github.com/thething252/RealVolumetrics/wiki/Installation
+~~Find the install guide in the wiki at: https://github.com/thething252/RealVolumetrics/wiki/Installation~~
 
 # Credits
 
@@ -27,7 +27,7 @@ Find the install guide in the wiki at: https://github.com/thething252/RealVolume
 
 
 
-# Planned features:
+~~# Planned features:~~
 
 - Titan clouds (WIP)
 - Improved looks from orbit (Mostly completed)
