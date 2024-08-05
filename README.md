@@ -3,6 +3,8 @@ This is an updated version of BananaMan's RealSolarSystem configs for the volume
 
 I don't maintain it anymore, I have made a final version 0.3, and dont trust the wiki install guide, use the one on the last release!
 
+I will, however, be somewhat continuing this project by including a volumetrics version of the mod in RSSVE-Enhanced: https://github.com/thething252/RSSVE-Enhanced
+
 
 
 
